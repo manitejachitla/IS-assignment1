@@ -1,0 +1,25 @@
+.main
+{
+    color: #59b880;
+    padding: 10px;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+.div
+{
+    display: flex;
+    align-items: center;
+}
+.div>h2,.div>h3
+{
+    margin-right: 10px;
+}
+.btn
+{
+    font-size: 40px;
+    background: #59b880;
+    cursor: pointer;
+    margin: 2px;
+}

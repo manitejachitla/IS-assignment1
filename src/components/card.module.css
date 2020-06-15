@@ -1,0 +1,16 @@
+.card
+{
+    /*height: 100px;*/
+    display: flex;
+    flex-direction: column;
+    border:2px solid #59b880
+}
+.card img
+{
+    height: 80px;
+    margin: 10px auto;
+}
+.col
+{
+    color: #59b880;
+}
